@@ -4,7 +4,10 @@ def new_hash
 end
 
 def my_hash
-  pokemon = { pikachu: "", 
+  pokemon = { pikachu: "electric", 
+              kyogre: "water", 
+              mewtwo: 'psychic'}
+  return pokemon
 end
 
 def pioneer
